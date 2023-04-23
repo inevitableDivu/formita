@@ -1,6 +1,6 @@
 {
 	"name": "formita",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A basic react library that makes handling form easier. An alternative of formik",
 	"author": "inevitableDivu",
 	"license": "MIT",
